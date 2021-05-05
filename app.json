@@ -1,0 +1,12 @@
+{
+  "name": "AulaMobile",
+  "displayName": "AulaMobile",
+  "expo": {
+    "name": "AulaMobile",
+    "slug": "AulaMobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
